@@ -16,14 +16,6 @@ public class ProductBucket {
      * @author mini
      *
      */
-    /**
-     * @author mini
-     *
-     */
-    /**
-     * @author mini
-     *
-     */
     protected enum Product {
         APPLE(1, "Apple", 10),
         BANANA(2, "Banana", 10),
